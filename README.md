@@ -16,6 +16,12 @@ To open the project:
 
 `4. Click Finish`
 
+## For Database
+
+Run the SQL Scripts present in the following location:
+
+> https://github.com/gauravbnsl/SpringREST/tree/master/spring-crm-rest-demo/sql-scripts
+
 This is the example of GET request mapping:
 
 ![GET](https://github.com/gauravbnsl/SpringREST/blob/master/spring-crm-rest-demo/screenshots/Screenshot%20(28).png)
